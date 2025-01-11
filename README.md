@@ -1,4 +1,7 @@
-for freelance work? do reach, [email](mailto:exoodev@proton.me) :)
+Hey 👋 I'm exodev
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1325655837003223137?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1325655837003223137)
+
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -30,7 +33,3 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=husxdev&show_icons=true&theme=gotham" alt="husxdev" />
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1325655837003223137?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1325655837003223137)
-
-
-
