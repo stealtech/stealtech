@@ -30,7 +30,6 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=husxdev&label=Profile%20views&color=0e75b6&style=flat" alt="Husxdev" />
   <img alt="wakatime" src="https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg">
-  <img alt="Codewars" src="https://www.codewars.com/users/husxdev/badges/micro">
 </p>
 
 <div align="center">
