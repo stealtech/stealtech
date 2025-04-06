@@ -60,30 +60,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-```json
-{ 
-	"Languages": {
-		"JavaScript": "Intermediate",
-		"Powershell": "Beginner",
-		"Python": "Intermediate",
-		"SQL": "Intermediate",
-	},
-	"IDEs": [
-		"Arduino IDE",
-		"CLion",
-		"IntelliJ IDEA",
-		"Juypter Notebook",
-		"NeoVim",
-		"Obsidian",
-		"PyCharm",
-		"RStudio",
-		"RustRover",
-		"Visual Studio Code",
-		"Visual Studio"
-	]
-}
-```
-
 <div align="center">
   <h2><i>Tools and Technologies</i></h2>
 </div>
