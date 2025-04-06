@@ -39,7 +39,7 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 
   <h2><i>Activity Graph</i></h2>
 
-[![StealTech's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stealtech&bg_color=00000000&color=c7c7c7&line=75baff&point=4F8CC9&area=true&hide_border=true)](https://github.com/CodeByAidan/)
+[![StealTech's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stealtech&bg_color=00000000&color=c7c7c7&line=75baff&point=4F8CC9&area=true&hide_border=true)](https://github.com/stealtech/)
 
 </div>
 
