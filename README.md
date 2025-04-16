@@ -23,7 +23,7 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 
 <p align='center'>
   <a href="https://keybase.io/stealtech">
-    <img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/stealtech?style=social&link=https%3A%2F%2Fkeybase.io%stealtech">
+    <img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/steeltech?style=social&link=https%3A%2F%2Fkeybase.io%steeltech">
   </a>
 </p>
 
