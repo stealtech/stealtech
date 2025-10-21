@@ -90,9 +90,3 @@
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
-
-
-
-<p align="center">
-    <img src="github-metrics.png">
-</p>
