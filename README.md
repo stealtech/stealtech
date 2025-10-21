@@ -49,22 +49,47 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stealtech&theme=react-dark&hide_border=true&bg_color=1B1F23&color=61DAFB&line=61DAFB&point=61DAFB" alt="Contribution Graph"/>
   </p>
 
+<h2 align="center">📫 Let's Connect!</h2>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Email</th>
+      <th>WhatsApp (United States)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="mailto:me@steeldev.xyz" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 80px; margin: 10px;">
+          <br>
+          me@steeldev.xyz
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://wa.me/918200280008" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" alt="WhatsApp US" style="width: 80px; margin: 10px;">
+          <br>
+          +1-817-501-6977
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<h3>
 <div align="center">
-  <h2><i>Top Languages</i></h2>
-  <h6>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
+  
+⭐️ From [StealTech](https://github.com/stealtech) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+
+
 </div>
+</h3>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 03 January 2025 - To: 10 January 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
 
 
