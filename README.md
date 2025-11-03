@@ -71,7 +71,7 @@
         <a href="https://wa.me/918200280008" target="_blank">
           <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" alt="WhatsApp US" style="width: 80px; margin: 10px;">
           <br>
-          +1-817-501-6977
+          none
         </a>
       </td>
     </tr>
