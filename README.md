@@ -61,10 +61,10 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="mailto:me@steeldev.xyz" target="_blank">
+        <a href="mailto:stealdevelopment@gmail.com" target="_blank">
           <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 80px; margin: 10px;">
           <br>
-          me@steeldev.xyz
+          stealdevelopment@gmail.com
         </a>
       </td>
       <td align="center">
