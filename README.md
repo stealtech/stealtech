@@ -1,5 +1,6 @@
 <div align="center">
   <div id="toc">
+    <a href="https://badge.les.bi"><img title="bi bi" style="image-rendering: pixelated;" src="https://badge.les.bi/88x31/bi/bi/half.png"></a>
     <ul align="center" style="list-style: none">
       <summary>
         <h1>
