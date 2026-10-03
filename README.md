@@ -1,93 +1,75 @@
 <div align="center">
+
+  <a href="https://stealtech.dev">
+    <img src="assets/header.svg" alt="stealtech.dev: developer, designer, and open source enthusiast" width="100%">
+  </a>
+
   <div id="toc">
-    <a href="https://badge.les.bi"><img title="bi bi" style="image-rendering: pixelated;" src="https://badge.les.bi/88x31/bi/bi/half/outset.png"></a>
     <ul align="center" style="list-style: none">
       <summary>
         <h1>
           Hi, I'm StealTech
-          <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
         </h1>
       </summary>
     </ul>
   </div>
 
-  <div id="toc">
-    <ul align="center" style="list-style: none">
-      <summary>
-        <h2 align="center">
-          <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-        </h2>
-      </summary>
-    </ul>
-  </div>
+  <a href="https://badge.les.bi"><img title="bi fluid"  src="https://badge.les.bi/88x31/bi/fluid/half/outset.svg"></a>
+  <br><br>
 
-  ## 👨‍💻 About Me
-   Passionate about building robust backend systems and scalable APIs. <br>
-   Active contributor to open-source projects and developer communities. <br>
-   Lifelong learner, always experimenting with new tools and languages.
+  <img src="assets/divider.svg" width="100%" alt="">
+
+  <h2>About Me</h2>
+
+  Passionate about building robust backend systems and scalable APIs. <br>
+  Active contributor to open-source projects and developer communities. <br>
+  Lifelong learner, always experimenting with new tools and languages.
+
+  <br><br>
 
   <p>
-    <img src="https://img.shields.io/badge/java-%2361DAFB.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/python-%2361DAFB.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/kotlin-%2361DAFB.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/git-%2361DAFB.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/github-%2361DAFB.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/vscode-%2361DAFB.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/intellij-IDEA-%2361DAFB.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Java-0a0a0c?style=for-the-badge&logo=openjdk&logoColor=fd6466"/>
+    <img src="https://img.shields.io/badge/Kotlin-0a0a0c?style=for-the-badge&logo=kotlin&logoColor=fd6466"/>
+    <img src="https://img.shields.io/badge/TypeScript-0a0a0c?style=for-the-badge&logo=typescript&logoColor=fd6466"/>
+    <img src="https://img.shields.io/badge/JavaScript-0a0a0c?style=for-the-badge&logo=javascript&logoColor=fd6466"/>
+    <img src="https://img.shields.io/badge/Python-0a0a0c?style=for-the-badge&logo=python&logoColor=fd6466"/>
+    <img src="https://img.shields.io/badge/Lua-0a0a0c?style=for-the-badge&logo=lua&logoColor=fd6466"/>
+    <br>
+    <img src="https://img.shields.io/badge/Git-0a0a0c?style=for-the-badge&logo=git&logoColor=fd6466"/>
+    <img src="https://img.shields.io/badge/GitHub-0a0a0c?style=for-the-badge&logo=github&logoColor=fd6466"/>
+    <img src="https://img.shields.io/badge/VS%20Code-0a0a0c?style=for-the-badge&logo=visual-studio-code&logoColor=fd6466"/>
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-0a0a0c?style=for-the-badge&logo=intellij-idea&logoColor=fd6466"/>
   </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stealtech&label=Profile%20views&color=0e75b6&style=flat" alt="StealTech" />
-  <img alt="wakatime" src="https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg">
-</p>
-
-<div align="center">
-  <h1><i>Stats</i></h1>
-
-![StealTech's GitHub stats](https://github-readme-stats-livxy.vercel.app/api?username=stealtech&title_color=4478ac&text_color=4478ac&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4478ac&hide_title=true&count_private=true)[![GitHub Streak](https://streak-stats.demolab.com?user=stealtech&hide_border=true&background=00000000&border=00000000&stroke=4478ac&ring=4478ac&fire=4478ac&currStreakNum=4478ac&sideNums=4478ac&currStreakLabel=4478ac&sideLabels=4478ac&dates=4478ac)](https://git.io/streak-stats)
 
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stealtech&theme=react-dark&hide_border=true&bg_color=1B1F23&color=61DAFB&line=61DAFB&point=61DAFB" alt="Contribution Graph"/>
+    <img src="https://komarev.com/ghpvc/?username=stealtech&label=profile%20views&color=fd6466&style=flat-square" alt="profile views" />
+    <img alt="wakatime" src="https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg">
   </p>
 
-<h2 align="center">📫 Let's Connect!</h2>
+  <img src="assets/divider.svg" width="100%" alt="">
 
-<table align="center">
-  <thead>
-    <tr>
-      <th>Email</th>
-      <th>WhatsApp (United States)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="mailto:stealdevelopment@gmail.com" target="_blank">
-          <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 80px; margin: 10px;">
-          <br>
-          stealdevelopment@gmail.com
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://wa.me/918200280008" target="_blank">
-          <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" alt="WhatsApp US" style="width: 80px; margin: 10px;">
-          <br>
-          none
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <h2>Stats</h2>
 
-<br>
+  <img height="165" alt="StealTech's GitHub stats" src="https://github-readme-stats-livxy.vercel.app/api?username=stealtech&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=fd6466&icon_color=fd6466&text_color=9898b8">
+  <a href="https://git.io/streak-stats"><img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=stealtech&hide_border=true&background=00000000&border=00000000&stroke=fd646640&ring=fd6466&fire=fd6466&currStreakNum=fd6466&sideNums=fd6466&currStreakLabel=fd6466&sideLabels=9898b8&dates=9898b8"></a>
 
-<h3>
-<div align="center">
-  
-⭐️ From [StealTech](https://github.com/stealtech) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+  <img src="assets/divider.svg" width="100%" alt="">
 
+  <h2>Let's Connect</h2>
+
+  <p>
+    <a href="https://stealtech.dev"><img src="https://img.shields.io/badge/stealtech.dev-fd6466?style=for-the-badge"/></a>
+    <a href="mailto:stealdevelopment@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0c?style=for-the-badge&logo=gmail&logoColor=fd6466"/></a>
+    <a href="https://discord.com/users/226049554972147712"><img src="https://img.shields.io/badge/Discord-0a0a0c?style=for-the-badge&logo=discord&logoColor=fd6466"/></a>
+    <a href="https://github.com/sponsors/stealtech"><img src="https://img.shields.io/badge/Sponsor-0a0a0c?style=for-the-badge&logo=githubsponsors&logoColor=fd6466"/></a>
+  </p>
+
+  <br>
+
+  <h3>
+    From <a href="https://github.com/stealtech">StealTech</a> | Let's innovate together!
+  </h3>
 
 </div>
-</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0c,100:fd6466&height=110&section=footer" width="100%">
