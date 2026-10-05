@@ -43,7 +43,7 @@
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=stealtech&label=profile%20views&color=fd6466&style=flat-square" alt="profile views" />
-    <img alt="wakatime" src="https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg">
+    <img alt="wakatime" src="https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg?color=fd6466&style=flat-square">
   </p>
 
   <img src="assets/divider.svg" width="100%" alt="">
