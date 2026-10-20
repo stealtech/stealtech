@@ -44,7 +44,7 @@
   <p>
     <img alt="wakatime" src="https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg?color=fd6466&style=flat-square">
     <br>
-    <img src="https://count.getloli.com/@stealtech?name=stealtech&theme=rule34&padding=2&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile views" />
+    <img src="https://count.getloli.com/@stealtech?theme=booru-lewd&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile views" />
   </p>
 
   <img src="assets/divider.svg" width="100%" alt="">
